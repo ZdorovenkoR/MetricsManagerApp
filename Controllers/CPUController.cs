@@ -38,4 +38,4 @@ namespace MetricsManagerApp.Controllers
 
 }
 //api/metrics/cpu/from/{fromTime}/to/{toTime}/percentiles/{percentile}
-//api/metrics/cpu//from/{fromTime}/to/{toTime}/
+//api/metrics/cpu//from/{fromTime}/to/{toTime}
